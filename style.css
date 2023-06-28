@@ -60,6 +60,35 @@ body {
     display: none;
   }
   
+  .card {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card h2 {
+    text-align: center;
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .card p {
+    margin-bottom: 10px;
+  }
+  
+  .card ul {
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .card button {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Additional styles for the leaderboard card */
   .leaderboard-card {
     display: flex;
     justify-content: space-between;
@@ -80,6 +109,7 @@ body {
     font-size: 16px;
     margin-left: 8px; /* Add some space between initials and score */
   }
+  
   
   
   
