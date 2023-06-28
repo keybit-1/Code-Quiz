@@ -60,5 +60,27 @@ body {
     display: none;
   }
   
+  .leaderboard-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background-color: #796d6d;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    font-size: 14px; /* Smaller font size */
+    color: #242424; /* Text color */
+  }
+  
+  .leaderboard-card .initials {
+    font-weight: bold;
+  }
+  
+  .leaderboard-card .score {
+    font-size: 16px;
+    margin-left: 8px; /* Add some space between initials and score */
+  }
+  
+  
   
   
