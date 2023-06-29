@@ -1,5 +1,5 @@
 # Code-Quiz
- # Coding Quiz
+
 
 Welcome to the Coding Quiz! This project is a web-based coding quiz that tests your coding knowledge through multiple-choice questions. It features a timer, score calculation, leaderboard, and more!
 
