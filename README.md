@@ -30,9 +30,9 @@ Welcome to the Coding Quiz! This project is a web-based coding quiz that tests y
 
 ## Screenshots
 ![Start Screen](screenshots/start-screen.png)
-![Quiz Screen](screenshots/quiz-screen.png)
+<!-- ![Quiz Screen](screenshots/quiz-screen.png)
 ![Result Screen](screenshots/result-screen.png)
-![Leaderboard Screen](screenshots/leaderboard-screen.png)
+![Leaderboard Screen](screenshots/leaderboard-screen.png) -->
 
 ## Contributing
 
