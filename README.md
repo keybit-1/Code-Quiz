@@ -29,7 +29,7 @@ Welcome to the Coding Quiz! This project is a web-based coding quiz that tests y
 2. Open the `index.html` file in a web browser.
 
 ## Screenshots
-![Start Screen](screenshots/start-screen.png)
+![Start Screen](assets/screenshots/start-screen.png)
 <!-- ![Quiz Screen](screenshots/quiz-screen.png)
 ![Result Screen](screenshots/result-screen.png)
 ![Leaderboard Screen](screenshots/leaderboard-screen.png) -->
